@@ -25,8 +25,8 @@ Here are the dashboard that i created.
 ![Screenshot 2024-07-19 173638](https://github.com/user-attachments/assets/b1328fe7-b54d-41ab-8a66-af3fa518fdfd)
 
 Hardware and Software used:
-1.Microsoft Excel
-2.Microsoft PowerBI
+Microsoft Excel, 
+Microsoft PowerBI
 
 Conclusion:
 
